@@ -1,0 +1,15 @@
+{
+  "name": "lya",
+  "version": "1.0.0",
+  "description": "lya, est une application de discussion avec une IA.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Anaïs",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.2.0"
+  }
+}
